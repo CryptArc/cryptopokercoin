@@ -1,0 +1,4 @@
+cryptopokercoin
+===============
+
+Official CryptoPokerCoin Repo
